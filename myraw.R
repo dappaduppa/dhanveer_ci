@@ -5,3 +5,5 @@
 # git pull origin master
 
 apropos('mean')
+
+print('abcd')
